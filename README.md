@@ -26,7 +26,7 @@
 
 - <p>Node JS</p>
 - <p>Expo</p>
-<br>
+<hr>
 <h2>💻 Back-end</h2>
 <p>Entrando na pasta e instalando as dependências:</p>
 
@@ -49,7 +49,7 @@
 ```
 > npm run dev ou yarn dev
 ```
-<br>
+<hr>
 <h2>👀 Front-end</h2>
 <p>Entrando na pasta e instalando as dependências:</p>
 
@@ -63,7 +63,7 @@
 ```
 > npm start ou yarn start
 ```
-<br>
+<hr>
 <h2>📱 Mobile</h2>
 <p>Entrando na pasta e instalando as dependências:</p>
 
@@ -78,11 +78,13 @@
 npm start ou yarn start
 ```
 <br>
+<hr>
 <h2>Observações:</h2>
 
  - <p>Foi usado nesse projeto a <a href="https://servicodados.ibge.gov.br/api/docs/localidades?versao=1" style="text-decoration: none; color: #fff">API do IBGE</a> para cidades e estados</p>
  - <p>TODAS as depenendências devem estar instaladas corretamente, caso contrário, a aplicação não funcionará corretamente</p>
-
+ - <p>Para o app funcionar no mobile é necessário alterar o baseURL do arquivo: src/services/api.ts para o endereço local de sua máquina.
+<hr>
 <h2>Agradecimentos especiais:</h2>
 
 <p style="font-size: 13px">Eu gostaria de agradecer a <a href="https://rocketseat.com.br/" style="font-size: 16px; color: tomato">🚀 ROCKETSEAT</a> e toda sua comunidade, por se esforçarem para distribuir conhecimento de forma que uma pessoa em qualquer nível consegue aprender </p>
