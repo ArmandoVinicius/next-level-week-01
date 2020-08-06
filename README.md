@@ -82,7 +82,7 @@ npm start ou yarn start
 <h2>Observações:</h2>
 
  - <p>Foi usado nesse projeto a <a href="https://servicodados.ibge.gov.br/api/docs/localidades?versao=1" style="text-decoration: none; color: #fff">API do IBGE</a> para cidades e estados</p>
- - <p>TODAS as depenendências devem estar instaladas corretamente, caso contrário, a aplicação não funcionará corretamente</p>
+ - <p>TODAS as dependências devem estar instaladas corretamente, caso contrário, a aplicação não funcionará corretamente</p>
  - <p>Para o app funcionar no mobile é necessário alterar o baseURL do arquivo: src/services/api.ts para o endereço local de sua máquina.
 <hr>
 <h2>Agradecimentos especiais:</h2>
